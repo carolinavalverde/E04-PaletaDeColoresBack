@@ -9,7 +9,7 @@ La aplicación está desplegada y disponible en:
 https://paleta-de-colores-cv.netlify.app/
 
 El Backend se encuentra en:
-https://paleta-de-colores-backend.vercel.app/
+https://e04-paleta-de-colores-back.vercel.app/
 
 ## 3. Dependencies
 Este proyecto utiliza las siguientes dependencias:
