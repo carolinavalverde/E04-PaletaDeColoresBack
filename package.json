@@ -1,7 +1,7 @@
 {
-  "name": "14-backendrollingcoffe",
+  "name": "backendpaletadecolores",
   "version": "1.0.0",
-  "description": "backend del proyecto rollingcoffee",
+  "description": "backendpaletadecolores",
   "main": "index.js",
   "type": "module",
   "scripts": {
